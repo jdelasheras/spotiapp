@@ -6,8 +6,8 @@ export const environment = {
   production: false,
 
 
-  //Autorizaciones
-  tokenSPotify: 'Bearer BQA0cb604M8BIjmEhxKDW7iv5UBjvphbhj2ZDPrTQslzYZ00s5U3rdipp6RY9DzEu1ruvUv9YnpSxLWbwWU'
+  // Autorizaciones
+  tokenSPotify: 'Bearer BQCdYixf5_KHotD7pfx2j2k3uRWWp3tRoBPwJYQ5U4DcnccpUiKnvcjxTGOnkNRLXRkYSquPZDOxvUwEB_Y'
 
 };
 
