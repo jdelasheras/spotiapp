@@ -3,7 +3,12 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+
+
+  //Autorizaciones
+  tokenSPotify: 'Bearer BQA0cb604M8BIjmEhxKDW7iv5UBjvphbhj2ZDPrTQslzYZ00s5U3rdipp6RY9DzEu1ruvUv9YnpSxLWbwWU'
+
 };
 
 /*
